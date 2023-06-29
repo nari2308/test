@@ -1,0 +1,33 @@
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    background-color: #2979ff;
+    border: #2979ff;
+}
+
+
+
+form {
+   border: solid;
+   border-radius: 10px;
+   box-shadow: 20px;
+   padding: 10px;
+   width: 220px;
+   height: 350px;
+   text-align: center;
+   margin: 50px 500px;
+}
+
+p {
+    text-align: left;
+    padding-left: 20px;
+    font-size: medium;
+}
+
+.dummy {
+    background-color: aliceblue;
+    color: black;
+}
