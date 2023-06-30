@@ -1,0 +1,7 @@
+#menuButton {
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    display: flex;
+    justify-self: flex-end;
+}

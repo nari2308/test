@@ -10,8 +10,8 @@ function Signup() {
             <p> <input type="text" placeholder="Email"/></p> 
             <p> <input type="password" placeholder="password"/></p> 
             <button>Submit</button>
-            <p>Already have account?  <a href="/login">Login</a></p>
-            <button class="dummy"><a href='/home'>Home</a></button>
+            <p>Already have account?  <a href="/react-app/login">Login</a></p>
+            <button class="dummy"><a href='/react-app'>Home</a></button>
         </form>
         </div>
 );
