@@ -7,7 +7,7 @@ import './Header.css';
 export default function Header() {
   const displayDesktop = () => {
     return <Toolbar>
-        <Button variant="text" id="menuButton" href="/test/">Home</Button>
+        <Button variant="text" id="menuButton" href="/test">Home</Button>
         <Button variant="text" id="menuButton" href="/test/signup">About</Button>
         <Button variant="text" id="menuButton" href="/test/signup">Signup</Button>
         <Button variant="text" id="menuButton" href="/test/login">Login</Button>
