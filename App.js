@@ -13,10 +13,10 @@ function App() {
     <Home />
     <Router>
     <Routes>
-      <Route exact path='/react-app' Component={App}></Route>
-      <Route  path='/react-app' Component={Home }></Route>
-      <Route  path='/react-app/signup' Component={Signup }></Route>
-     <Route  path='/react-app/login' Component={Login }></Route>
+      <Route exact path='/' Component={App}></Route>
+      <Route  path='/test' Component={Home }></Route>
+      <Route  path='/test/signup' Component={Signup }></Route>
+     <Route  path='/test/login' Component={Login }></Route>
     </Routes>
    </Router>
    </>
