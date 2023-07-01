@@ -11,7 +11,7 @@ function App() {
     <>
     <Header />
     <Home />
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={process.env.PUBLIC_URL + '/'}>
     <Routes>
       <Route exact path='/' Component={App}></Route>
       <Route  path='/test' Component={Home }></Route>
