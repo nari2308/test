@@ -1,0 +1,32 @@
+button {
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    margin: 10px;
+}
+
+
+.formsignup {
+   border: solid;
+   border-radius: 10px;
+   padding: 10px;
+   width: 250px;
+   height: 400px;
+   text-align: center;
+   margin: 50px 500px;
+}
+
+p {
+    text-align: left;
+    padding-left: 20px;
+    font-size: medium;
+}
+
+
+.dummy {
+    background-color: aliceblue;
+    color: black;
+}
